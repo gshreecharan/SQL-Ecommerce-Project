@@ -96,12 +96,12 @@ The project includes the following tables:
 
 ## 📁 Project Structure
 
-- 01_create_tables.sql → Table creation
-- 02_insert_data.sql → Data insertion
-- 03_queries.sql → SQL queries (SELECT, JOIN, GROUP BY, etc.)
-- 04_procedures.sql → Stored procedures
-- 05_triggers.sql → Triggers
-- 06_views.sql → Views
+- 1_create_tables.sql → Table creation
+- 2_insert_data.sql → Data insertion
+- 3_queries.sql → SQL queries (SELECT, JOIN, GROUP BY, etc.)
+- 4_procedures.sql → Stored procedures
+- 5_triggers.sql → Triggers
+- 6_views.sql → Views
 
 ---
 
